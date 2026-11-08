@@ -32,7 +32,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| [BEN.OPS 知识库](https://github.com/ben2023niao/ben-ops-notes) | 1,221 篇工程笔记、分类索引、全文搜索与离线阅读 |
+| [BEN.OPS 知识库](https://github.com/ben2023niao/ben-ops-notes) | 1,366 篇工程笔记、分类索引、全文搜索与离线阅读 |
 | [BEN.OPS 在线站点](https://ben2023niao.github.io/ben-ops-notes/) | GitHub Pages 直接浏览 |
 | [月度工程摘要](https://github.com/ben2023niao/ben-ops-notes/tree/main/docs/monthly) | 只按真实日期汇总提交与文档 |
 | [ebike](https://github.com/ben2023niao/ebike) | 早期 Web 项目 |
@@ -42,12 +42,12 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| Git 提交 | 1,141+ |
-| 知识文档 | 1,221 |
-| 本地媒体 | 1,757 |
-| 分类 | 47 |
-| 标签 | 109 |
-| 活跃月份 | 26 |
+| Git 提交 | 1,375+ |
+| 知识文档 | 1,366 |
+| 本地媒体 | 2,192 |
+| 分类 | 66 |
+| 标签 | 123 |
+| 活跃月份 | 33 |
 
 ## 职业时间线
 
