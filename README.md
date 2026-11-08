@@ -32,7 +32,7 @@
 
 | 项目 | 内容 |
 | --- | --- |
-| [BEN.OPS 知识库](https://github.com/ben2023niao/ben-ops-notes) | 1,366 篇工程笔记、分类索引、全文搜索与离线阅读 |
+| [BEN.OPS 知识库](https://github.com/ben2023niao/ben-ops-notes) | 2,579 篇工程笔记、分类索引、全文搜索与离线阅读 |
 | [BEN.OPS 在线站点](https://ben2023niao.github.io/ben-ops-notes/) | GitHub Pages 直接浏览 |
 | [月度工程摘要](https://github.com/ben2023niao/ben-ops-notes/tree/main/docs/monthly) | 只按真实日期汇总提交与文档 |
 | [ebike](https://github.com/ben2023niao/ebike) | 早期 Web 项目 |
@@ -42,12 +42,12 @@
 
 | 指标 | 数量 |
 | --- | ---: |
-| Git 提交 | 1,375+ |
-| 知识文档 | 1,366 |
+| Git 提交 | 1,518+ |
+| 知识文档 | 2,579 |
 | 本地媒体 | 2,192 |
-| 分类 | 66 |
-| 标签 | 123 |
-| 活跃月份 | 33 |
+| 分类 | 78 |
+| 标签 | 133 |
+| 活跃月份 | 37 |
 
 ## 职业时间线
 
@@ -58,16 +58,16 @@
 
 ## 最近笔记
 
+- `2026-11-09` [DBQP 删库账号与各环境数据库破坏清单](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-15b37d7c6b3e)
 - `2026-11-09` [ben随笔文档](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-8ec9a00bfd09)
+- `2026-11-09` [文档总索引 · README](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-14f202fd9f6e)
+- `2026-11-09` [每日服务器巡检（2026-11-09）](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-a0a6c5e58711)
 - `2026-11-08` [DBQP 全服务器 CVE 与安全基线巡检记录](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-8b392a04e243)
+- `2026-11-08` [BSQP 百盛用户表 PITR 恢复与香港 PG 下注链路核查报告](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-863d089c5099)
 - `2026-11-08` [03-安全运营与应急](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-aa4fba80b33c)
 - `2026-11-08` [BSQP 百盛用户表 PITR 恢复与香港 PG 下注链路核查报告](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-be2750474884)
+- `2026-11-08` [香港动态接口与静态资源 CORS 边界记录](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-42b228c62a99)
 - `2026-11-08` [香港动态接口与静态资源 CORS 边界记录](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-36e7d7e4e0c3)
-- `2026-11-07` [DBQP 旧堡垒机入侵与 56 台资产深度安全巡检报告](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-fea61ae3190c)
-- `2026-11-07` [项目安全资料索引](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-ac9bb411fb38)
-- `2026-11-07` [DBQP 旧堡垒机入侵处置与数据库恢复总结报告](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-1c6f74b74931)
-- `2026-11-05` [【修复】一键准备结果集脚本权限误判与服务器状态污染修复记录](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-78e2b7456714)
-- `2026-11-05` [【发布+优化】巴西、香港一键发布全过程与结果集安全同步记录](https://ben2023niao.github.io/ben-ops-notes/#doc=doc-8f8e76a24afc)
 
 ## 工作方式
 
